@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-    <h1> My Favorite Movies and Series </h1>
+    <center><h1> My Favorite Movies and Series </h1></center>
     
     1. Iron Man
     2. Stranger Things
